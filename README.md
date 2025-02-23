@@ -11,4 +11,3 @@ This repository conatins a notebook that uses unsloth for domain training of Lla
 
 `Llam3_2_3B_NationalInstituteOfMentalHealth.ipynb` is the main notebook. Upload this on colab and upload the datasets folder into the contents.
 
-`NIH_Q4_K_M.gguf` is the final .gguf file which can be used for inference.
